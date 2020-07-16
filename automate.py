@@ -1,6 +1,7 @@
 import webbrowser
 
 webbrowser.open('https://remotedesktop.google.com/access/')  
+webbrowser.open('https://trello.com/')
 # To automate open the google remote
 
 
