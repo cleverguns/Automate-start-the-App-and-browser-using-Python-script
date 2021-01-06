@@ -2,6 +2,10 @@ import webbrowser
 
 webbrowser.open('https://remotedesktop.google.com/access/')  
 webbrowser.open('https://trello.com/')
+webbrowser.open('https://www.linkedin.com/feed/')
+
+webbrowser.open('https://github.com/')
+
 
 webbrowser.open('https://app.diagrams.net/#Hcleverguns%2FFB-Diagram%2Fmain%2FUntitled%20Diagram.drawio')
 
